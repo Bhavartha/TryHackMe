@@ -44,3 +44,4 @@ Answer: `httponly`
 
 Answer: `http-slowloris-check`
 
+![image](https://user-images.githubusercontent.com/33615252/99152779-efe55c00-26c9-11eb-8b00-fd85747ad51c.png)
