@@ -50,3 +50,13 @@ Answer: `ipconfig`
 
 ![image](https://user-images.githubusercontent.com/33615252/100546333-daa22d00-3286-11eb-809a-42a547b14f87.png)
 
+**Q10:** One quick extra question, what command can we run in our meterpreter session to spawn a normal system shell? 
+
+Answer: `shell`
+
+![image](https://user-images.githubusercontent.com/33615252/100546569-12f63b00-3288-11eb-9738-0a37f2c0b97f.png)
+
+
+**Other**
+
+![image](https://user-images.githubusercontent.com/33615252/100546713-d70fa580-3288-11eb-982e-0e51f8574d50.png)
