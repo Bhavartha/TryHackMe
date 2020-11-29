@@ -6,3 +6,10 @@ We can start the Metasploit console on the command line without showing the bann
 Answer: `-q`
 
 ![image](https://user-images.githubusercontent.com/33615252/100543303-55fae300-3275-11eb-9272-40fb29418ecb.png)
+
+
+**Q2:**
+Cool! We've connected to the database, which type of database does Metasploit 5 use? 
+
+Answer: `postgresql`
+
